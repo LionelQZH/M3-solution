@@ -85,7 +85,10 @@ body {
 
 /* HOME PAGE */
 
-
+{
+  box-shadow: 0 0 50px whitesmoke;
+  border: 2px solid ghostwhite;
+}
 
 #menu-tile, #specials-tile, #map-tile {
   height: 250px;
@@ -119,7 +122,11 @@ h1 {
   text color: lightgray;
 }
 
-
+#item_1, #item_2, #item_3 {
+  text-align: center;
+  color: darkgreen;
+  font-size: 150%;
+}
  
 
 
